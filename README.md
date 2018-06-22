@@ -1,2 +1,2 @@
 # ide-Week-DG-ECE
-Playground repository for IDE Week
+Playground repository for GitHub IDE's
